@@ -1,0 +1,1 @@
+This is a example of anmited menu using javascript
